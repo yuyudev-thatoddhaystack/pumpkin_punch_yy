@@ -1,0 +1,38 @@
+descript
+{
+	version,1
+}
+
+surface0
+{
+	element0,overlay,surface0.png,0,0
+
+	animation0.interval,bind
+	animation0.pattern0,overlayfast,1,00,0,0
+
+
+
+
+
+	
+	animation2.interval,bind
+	animation2.pattern0,overlayfast,20,00,0,0
+
+	animation3.interval,bind
+	animation3.pattern0,overlayfast,21,00,0,0
+
+	animation4.interval,bind
+	animation4.pattern0,overlayfast,22,00,0,0
+
+	animation5.interval,bind
+	animation5.pattern0,overlayfast,23,00,0,0
+
+	animation6.interval,bind
+	animation6.pattern0,overlayfast,24,00,0,0
+
+	animation7.interval,bind
+	animation7.pattern0,overlayfast,25,00,0,0
+
+	animation999.interval,bind
+	animation999.pattern0,overlay,11,00,0,0
+}

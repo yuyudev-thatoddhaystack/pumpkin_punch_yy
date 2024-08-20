@@ -1,0 +1,60 @@
+﻿seriko.alignmenttodesktop,free
+seriko.use_self_alpha,1
+
+charset,UTF-8
+type,shell
+name,Pumpkin Punch
+craftman, Vita/yuyudev
+craftmanw, Vita/yuyudev
+craftmanurl, https://thatoddhaystack.neocities.org/ukagaka/
+homeurl,
+
+menu.background.font.color.r,92
+menu.background.font.color.g,8
+menu.background.font.color.b,0
+
+menu.foreground.font.color.r,255
+menu.foreground.font.color.g,195
+menu.foreground.font.color.b,100
+
+menu.disable.font.color.r,150
+menu.disable.font.color.g,140
+menu.disable.font.color.b,100
+
+menu.separator.color.r,204
+menu.separator.color.g,72
+menu.separator.color.b,0
+
+menu.frame.color.r,92
+menu.frame.color.g,8
+menu.frame.color.b,0
+
+menu.background.alignment,lefttop+repeat-x+repeat-y
+menu.foreground.alignment,lefttop+repeat-x+repeat-y
+menu.sidebar.alignment,top
+
+menu.background.bitmap.filename,menu_background.png
+menu.foreground.bitmap.filename,menu_foreground.png
+menu.sidebar.bitmap.filename,menu_sidebar.png
+
+sakura.bindgroup0.name,Face,Jack O'Lantern 
+
+sakura.bindgroup999.name,Spoon,Yes
+
+sakura.bindgroup2.name,Drink,Cherry Punch
+sakura.bindgroup3.name,Drink,Orange Punch
+sakura.bindgroup4.name,Drink,Grape Punch
+sakura.bindgroup5.name,Drink,Blue Raspberry Punch
+sakura.bindgroup6.name,Drink,Lime Punch
+sakura.bindgroup7.name,Drink,Slime Punch
+
+sakura.menuitem0,0
+sakura.menuitem1,-
+sakura.menuitem2,999
+sakura.menuitem3,-
+sakura.menuitem4,2
+sakura.menuitem5,3
+sakura.menuitem6,4
+sakura.menuitem7,5
+sakura.menuitem8,6
+sakura.menuitem9,7
