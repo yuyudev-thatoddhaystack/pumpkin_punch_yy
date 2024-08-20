@@ -7,7 +7,7 @@ name,Pumpkin Punch
 craftman, Vita/yuyudev
 craftmanw, Vita/yuyudev
 craftmanurl, https://thatoddhaystack.neocities.org/ukagaka/
-homeurl,
+homeurl,https://raw.githubusercontent.com/yuyudev-thatoddhaystack/pumpkin_punch_yy/main/
 
 menu.background.font.color.r,92
 menu.background.font.color.g,8
